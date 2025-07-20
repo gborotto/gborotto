@@ -5,7 +5,7 @@ Right now, I'm focusing on **automating data handling and cross-referencing proc
 
 ## 📫 Reach Me
 - Email: [gborottoc@gmail.com]
-- LinkedIn: [linkedin.com/in/gborottoc]
+- LinkedIn: [www.linkedin.com/in/gborottoc]
 
 
 
