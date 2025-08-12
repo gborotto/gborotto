@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Giovanni!
 
-Welcome to my GitHub profile. I’m passionate about **data science**, and I love building cool things.
+Welcome to my GitHub profile. I’m passionate about **data science** and *web development*, and I love building cool things.
 Right now, I'm focusing on **automating data handling and cross-referencing processes** for companies.
 
 ## 📫 Reach Me
